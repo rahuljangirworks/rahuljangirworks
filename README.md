@@ -32,20 +32,40 @@ Infrastructure & Cloud Engineer · Pune, India · ~4+ years in the industry
 <a href="#"><img height="44" alt="Fedora" src="assets/skills-icons/fedora.png"></a>
 <a href="#"><img height="44" alt="Ubuntu" src="assets/skills-icons/ubuntu.png"></a>
 <a href="#"><img height="44" alt="Arch" src="assets/skills-icons/arch.png"></a>
+<a href="#"><img height="44" alt="Proxmox" src="assets/skills-icons/proxmox.png"></a>
 
-**DevOps & Backend**
+**Containers & Orchestration**
 
+<a href="#"><img height="44" alt="Docker" src="assets/skills-icons/docker.png"></a>
+<a href="#"><img height="44" alt="Kubernetes" src="assets/skills-icons/kubernetes.png"></a>
+<a href="#"><img height="44" alt="Helm" src="assets/skills-icons/helm.png"></a>
+
+**CI/CD & IaC**
+
+<a href="#"><img height="44" alt="GitHub Actions" src="assets/skills-icons/github-actions.png"></a>
+<a href="#"><img height="44" alt="Terraform" src="assets/skills-icons/terraform.png"></a>
 <a href="#"><img height="44" alt="Git" src="assets/skills-icons/GIT.png"></a>
 <a href="#"><img height="44" alt="GitHub" src="assets/skills-icons/GITHUB.png"></a>
+
+**Monitoring**
+
+<a href="#"><img height="44" alt="Grafana" src="assets/skills-icons/grafana.png"></a>
+<a href="#"><img height="44" alt="Prometheus" src="assets/skills-icons/prometheus.png"></a>
+<a href="#"><img height="44" alt="CloudWatch" src="assets/skills-icons/cloudwatch.png"></a>
+
+**Backend & Languages**
+
 <a href="#"><img height="44" alt=".NET" src="assets/skills-icons/dot-net.png"></a>
 <a href="#"><img height="44" alt="C#" src="assets/skills-icons/Csharp.png"></a>
 <a href="#"><img height="44" alt="Node.js" src="assets/skills-icons/NODEJS.png"></a>
-<a href="#"><img height="44" alt="SQL Server" src="assets/skills-icons/sqlServer.png"></a>
-<a href="#"><img height="44" alt="Firebase" src="assets/skills-icons/firebase.png"></a>
+<a href="#"><img height="44" alt="C" src="assets/skills-icons/c.png"></a>
+<a href="#"><img height="44" alt="C++" src="assets/skills-icons/c++.png"></a>
 
 **Frontend**
 
 <a href="#"><img height="44" alt="Angular" src="assets/skills-icons/angular.png"></a>
+<a href="#"><img height="44" alt="Next.js" src="assets/skills-icons/nextjs.png"></a>
+<a href="#"><img height="44" alt="React" src="assets/skills-icons/REACT.png"></a>
 <a href="#"><img height="44" alt="TypeScript" src="assets/skills-icons/type-script.png"></a>
 <a href="#"><img height="44" alt="JavaScript" src="assets/skills-icons/Javascript.png"></a>
 <a href="#"><img height="44" alt="HTML" src="assets/skills-icons/html.png"></a>
@@ -53,12 +73,19 @@ Infrastructure & Cloud Engineer · Pune, India · ~4+ years in the industry
 <a href="#"><img height="44" alt="SCSS" src="assets/skills-icons/scss.png"></a>
 <a href="#"><img height="44" alt="Bootstrap" src="assets/skills-icons/BOOTSTRAP.png"></a>
 
+**Database**
+
+<a href="#"><img height="44" alt="SQL Server" src="assets/skills-icons/sqlServer.png"></a>
+<a href="#"><img height="44" alt="MySQL" src="assets/skills-icons/mysql.png"></a>
+<a href="#"><img height="44" alt="Firebase" src="assets/skills-icons/firebase.png"></a>
+
 **Tools**
 
 <a href="#"><img height="44" alt="Figma" src="assets/skills-icons/FIGMA.png"></a>
 <a href="#"><img height="44" alt="Canva" src="assets/skills-icons/CANVA.png"></a>
 <a href="#"><img height="44" alt="Photoshop" src="assets/skills-icons/PS.png"></a>
 <a href="#"><img height="44" alt="AI" src="assets/skills-icons/AI.png"></a>
+
 
 ---
 
