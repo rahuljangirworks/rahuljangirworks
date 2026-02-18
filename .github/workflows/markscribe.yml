@@ -24,6 +24,17 @@ jobs:
           template: 'README.gtpl'
           writeTo: 'README.md'
 
+      - name: Update experience years
+        run: |
+          START_YEAR=2022
+          START_MONTH=3
+          CURRENT_YEAR=$(date +%Y)
+          CURRENT_MONTH=$(date +%-m)
+          TOTAL_MONTHS=$(( CURRENT_YEAR * 12 + CURRENT_MONTH - START_YEAR * 12 - START_MONTH ))
+          YEARS=$(( (TOTAL_MONTHS + 6) / 12 ))
+          echo "Experience: ${YEARS} years"
+          sed -i "s/__YEARS_EXP__/${YEARS}/g" README.md
+
       - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v5
         env:

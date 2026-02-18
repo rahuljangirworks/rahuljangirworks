@@ -1,11 +1,6 @@
-{{- $careerStart := toDate "2006-01-02" "2022-03-01" -}}
-{{- $secPerYear := 31536000 -}}
-{{- $halfYear := 15768000 -}}
-{{- $totalSec := sub (unixEpoch now) (unixEpoch $careerStart) -}}
-{{- $years := div (add $totalSec $halfYear) $secPerYear -}}
 ## 👋 Rahul Jangir
 
-Infrastructure & Cloud Engineer · Pune, India · ~{{ $years }}+ years in the industry
+Infrastructure & Cloud Engineer · Pune, India · ~__YEARS_EXP__+ years in the industry
 
 [![Status](https://github-status-badge.vercel.app/api/badge?username=rahuljangirworks&style=minimal&theme=github&width=450&height=80)](https://github.com/rahuljangirworks)
 
