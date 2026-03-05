@@ -93,3 +93,4 @@ Infrastructure & Cloud Engineer · Pune, India · ~4+ years in the industry
 
 ### ⭐ Recent Stars
 
+- [clawdeckio/clawdeck](https://github.com/clawdeckio/clawdeck) - Open source mission control for your OpenClaw agents 🦞
