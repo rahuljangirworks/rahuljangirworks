@@ -84,6 +84,7 @@ Infrastructure & Cloud Engineer · Pune, India · ~4+ years in the industry
 
 ### 🌱 Latest projects
 
+- [rahuljangirworks/mission-control-3](https://github.com/rahuljangirworks/mission-control-3) - 워크스페이스 프로젝트 관제 대시보드 — Next.js &#43; GitHub API
 - [rahuljangirworks/background](https://github.com/rahuljangirworks/background) - nord-background
 - [rahuljangirworks/encryption-decryption](https://github.com/rahuljangirworks/encryption-decryption) - A secure, production-ready encryption/decryption microservice built with Node.js and TypeScript.
 - [rahuljangirworks/github-status-badge](https://github.com/rahuljangirworks/github-status-badge) - Custom GitHub status badge with Supabase integration
