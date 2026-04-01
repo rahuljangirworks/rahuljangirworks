@@ -94,4 +94,5 @@ Infrastructure & Cloud Engineer · Pune, India · ~4+ years in the industry
 
 ### ⭐ Recent Stars
 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - [clawdeckio/clawdeck](https://github.com/clawdeckio/clawdeck) - Open source mission control for your OpenClaw agents 🦞
