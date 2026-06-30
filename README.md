@@ -79,20 +79,24 @@ Infrastructure & Cloud Engineer · Pune, India · ~4+ years in the industry
 
 ### 👷 Currently working on
 
-- [rahuljangirworks/background](https://github.com/rahuljangirworks/background) - nord-background
-- [rahuljangirworks/github-status-badge](https://github.com/rahuljangirworks/github-status-badge) - Custom GitHub status badge with Supabase integration
+- [rahuljangirworks/rahul-boilerplate](https://github.com/rahuljangirworks/rahul-boilerplate) - A production-ready full-stack boilerplate featuring React Router v7 (SSR), Better Auth, tRPC v11, Drizzle ORM (Turso), and Tailwind CSS v4.
+- [rahuljangirworks/sadabahar-ui](https://github.com/rahuljangirworks/sadabahar-ui) - 
 
 ### 🌱 Latest projects
 
+- [rahuljangirworks/sadabahar-ui](https://github.com/rahuljangirworks/sadabahar-ui) - 
+- [rahuljangirworks/rahul-boilerplate](https://github.com/rahuljangirworks/rahul-boilerplate) - A production-ready full-stack boilerplate featuring React Router v7 (SSR), Better Auth, tRPC v11, Drizzle ORM (Turso), and Tailwind CSS v4.
 - [rahuljangirworks/mission-control-3](https://github.com/rahuljangirworks/mission-control-3) - 워크스페이스 프로젝트 관제 대시보드 — Next.js &#43; GitHub API
 - [rahuljangirworks/background](https://github.com/rahuljangirworks/background) - nord-background
 - [rahuljangirworks/encryption-decryption](https://github.com/rahuljangirworks/encryption-decryption) - A secure, production-ready encryption/decryption microservice built with Node.js and TypeScript.
-- [rahuljangirworks/github-status-badge](https://github.com/rahuljangirworks/github-status-badge) - Custom GitHub status badge with Supabase integration
 
 ### 🔨 Recent Pull Requests
 
 
 ### ⭐ Recent Stars
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-- [clawdeckio/clawdeck](https://github.com/clawdeckio/clawdeck) - Open source mission control for your OpenClaw agents 🦞
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
+- [dodopayments/dualmark](https://github.com/dodopayments/dualmark) - Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.
+- [dodopayments/billingsdk](https://github.com/dodopayments/billingsdk) - Modern Billing &amp; Monetization UI Components Library
+- [yepengfan/obsidian-workflow](https://github.com/yepengfan/obsidian-workflow) - Obsidian vault workflow system: book learning, Claude Code commands, templates
+- [nainglinnkhant/shadcn-view-table](https://github.com/nainglinnkhant/shadcn-view-table) - Shadcn table component with server side sorting, pagination, filtering, and custom views. This is built on top of @sadmann17&#39;s shadcn-table.
