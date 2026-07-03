@@ -84,11 +84,11 @@ Infrastructure & Cloud Engineer · Pune, India · ~4+ years in the industry
 
 ### 🌱 Latest projects
 
+- [rahuljangirworks/quertty-multiplayer](https://github.com/rahuljangirworks/quertty-multiplayer) - GUI terminal multiplexer built on libghostty with AI agent detection
 - [rahuljangirworks/sadabahar-ui](https://github.com/rahuljangirworks/sadabahar-ui) - 
 - [rahuljangirworks/rahul-boilerplate](https://github.com/rahuljangirworks/rahul-boilerplate) - A production-ready full-stack boilerplate featuring React Router v7 (SSR), Better Auth, tRPC v11, Drizzle ORM (Turso), and Tailwind CSS v4.
 - [rahuljangirworks/mission-control-3](https://github.com/rahuljangirworks/mission-control-3) - 워크스페이스 프로젝트 관제 대시보드 — Next.js &#43; GitHub API
 - [rahuljangirworks/background](https://github.com/rahuljangirworks/background) - nord-background
-- [rahuljangirworks/encryption-decryption](https://github.com/rahuljangirworks/encryption-decryption) - A secure, production-ready encryption/decryption microservice built with Node.js and TypeScript.
 
 ### 🔨 Recent Pull Requests
 
