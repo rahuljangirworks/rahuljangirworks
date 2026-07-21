@@ -80,23 +80,22 @@ Infrastructure & Cloud Engineer · Pune, India · ~4+ years in the industry
 ### 👷 Currently working on
 
 - [rahuljangirworks/rahul-boilerplate](https://github.com/rahuljangirworks/rahul-boilerplate) - A production-ready full-stack boilerplate featuring React Router v7 (SSR), Better Auth, tRPC v11, Drizzle ORM (Turso), and Tailwind CSS v4.
-- [rahuljangirworks/sadabahar-ui](https://github.com/rahuljangirworks/sadabahar-ui) - 
 
 ### 🌱 Latest projects
 
 - [rahuljangirworks/employee-Panel-ClickTake](https://github.com/rahuljangirworks/employee-Panel-ClickTake) - Employee Management System to work within our Next.js 16 environment, preserving all the core functionality while using our standard tech stack (Next.js 16, Tailwind CSS 4, shadcn/ui, Prisma/SQLite). Let me start building this comprehensive system.
 - [rahuljangirworks/quertty-multiplayer](https://github.com/rahuljangirworks/quertty-multiplayer) - GUI terminal multiplexer built on libghostty with AI agent detection
-- [rahuljangirworks/sadabahar-ui](https://github.com/rahuljangirworks/sadabahar-ui) - 
 - [rahuljangirworks/rahul-boilerplate](https://github.com/rahuljangirworks/rahul-boilerplate) - A production-ready full-stack boilerplate featuring React Router v7 (SSR), Better Auth, tRPC v11, Drizzle ORM (Turso), and Tailwind CSS v4.
 - [rahuljangirworks/mission-control-3](https://github.com/rahuljangirworks/mission-control-3) - 워크스페이스 프로젝트 관제 대시보드 — Next.js &#43; GitHub API
+- [rahuljangirworks/background](https://github.com/rahuljangirworks/background) - nord-background
 
 ### 🔨 Recent Pull Requests
 
 
 ### ⭐ Recent Stars
 
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
-- [dodopayments/dualmark](https://github.com/dodopayments/dualmark) - Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.
-- [dodopayments/billingsdk](https://github.com/dodopayments/billingsdk) - Modern Billing &amp; Monetization UI Components Library
-- [yepengfan/obsidian-workflow](https://github.com/yepengfan/obsidian-workflow) - Obsidian vault workflow system: book learning, Claude Code commands, templates
-- [nainglinnkhant/shadcn-view-table](https://github.com/nainglinnkhant/shadcn-view-table) - Shadcn table component with server side sorting, pagination, filtering, and custom views. This is built on top of @sadmann17&#39;s shadcn-table.
+- [kapishdima/soundcn](https://github.com/kapishdima/soundcn) - 700&#43; curated UI sound effects for modern web apps. Browse, preview, and install sounds with a single command. Free and open source
+- [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
+- [lochie/web-haptics](https://github.com/lochie/web-haptics) - Haptic feedback for the mobile web
+- [kapishdima/fonttrio](https://github.com/kapishdima/fonttrio) - Curated font pairing registry for shadcn. Three fonts. One command. Install perfectly configured typography (heading &#43; body &#43; mono) with shadcn add
+- [paper-design/shaders](https://github.com/paper-design/shaders) - Zero-dependency canvas shaders that can be installed from npm or designed in Paper
