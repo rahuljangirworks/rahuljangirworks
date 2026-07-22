@@ -94,8 +94,8 @@ Infrastructure & Cloud Engineer · Pune, India · ~4+ years in the industry
 
 ### ⭐ Recent Stars
 
+- [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk) - DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
 - [kapishdima/soundcn](https://github.com/kapishdima/soundcn) - 700&#43; curated UI sound effects for modern web apps. Browse, preview, and install sounds with a single command. Free and open source
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
 - [lochie/web-haptics](https://github.com/lochie/web-haptics) - Haptic feedback for the mobile web
 - [kapishdima/fonttrio](https://github.com/kapishdima/fonttrio) - Curated font pairing registry for shadcn. Three fonts. One command. Install perfectly configured typography (heading &#43; body &#43; mono) with shadcn add
-- [paper-design/shaders](https://github.com/paper-design/shaders) - Zero-dependency canvas shaders that can be installed from npm or designed in Paper
