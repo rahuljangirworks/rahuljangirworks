@@ -88,8 +88,8 @@ Infrastructure & Cloud Engineer · Pune, India · ~4+ years in the industry
 - [rahuljangirworks/yocto-kirkstone](https://github.com/rahuljangirworks/yocto-kirkstone) - 
 - [rahuljangirworks/yocto-custom](https://github.com/rahuljangirworks/yocto-custom) - 
 - [rahuljangirworks/employee-Panel-ClickTake](https://github.com/rahuljangirworks/employee-Panel-ClickTake) - Employee Management System to work within our Next.js 16 environment, preserving all the core functionality while using our standard tech stack (Next.js 16, Tailwind CSS 4, shadcn/ui, Prisma/SQLite). Let me start building this comprehensive system.
+- [rahuljangirworks/Invoice-Generator](https://github.com/rahuljangirworks/Invoice-Generator) - 
 - [rahuljangirworks/quertty-multiplayer](https://github.com/rahuljangirworks/quertty-multiplayer) - GUI terminal multiplexer built on libghostty with AI agent detection
-- [rahuljangirworks/rahul-boilerplate](https://github.com/rahuljangirworks/rahul-boilerplate) - A production-ready full-stack boilerplate featuring React Router v7 (SSR), Better Auth, tRPC v11, Drizzle ORM (Turso), and Tailwind CSS v4.
 
 ### 🔨 Recent Pull Requests
 
