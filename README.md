@@ -93,6 +93,7 @@ Infrastructure & Cloud Engineer · Pune, India · ~5+ years in the industry
 
 ### 🔨 Recent Pull Requests
 
+- [ci: build Fedora RPM while other desktop targets pause](https://github.com/rahuljangirworks/veer/pull/1) on [rahuljangirworks/veer](https://github.com/rahuljangirworks/veer)
 - [chore(oss): prepare repository for contributors](https://github.com/Gsync/jobsync/pull/131) on [Gsync/jobsync](https://github.com/Gsync/jobsync)
 
 ### ⭐ Recent Stars
